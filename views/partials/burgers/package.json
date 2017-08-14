@@ -1,0 +1,22 @@
+{
+  "name": "burgers",
+  "version": "1.0.0",
+  "description": "homework 14",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayjshin/Eat-Da-Burger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "Ray Shin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayjshin/Eat-Da-Burger/issues"
+  },
+  "homepage": "https://github.com/rayjshin/Eat-Da-Burger#readme"
+}
